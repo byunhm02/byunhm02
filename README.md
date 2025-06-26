@@ -43,9 +43,10 @@
 ## ✨ Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-|  | 나만의 타이머 서비스 | Django, AWS |
-|  | 팁 공유 플랫폼 | Spring Boot, JPA, AWS |
-|  | 미용실 추천 서비스 | Spring Boot, Redis, MySQL, Docker |
+|![Feelow](https://github.com/Likelion-Feelow/Feelow-Server)  | 나만의 타이머 서비스 | Django, AWS |
+|![FunDi](https://github.com/2024SINCHON-FunDI/Back-End)  | 동아리원들을 위한 회계 공유 서비스 | Django |
+|![TIPZIP](https://github.com/byunhm02/TIPZIP_BE) | 팁 공유 플랫폼 | Spring Boot, JPA, AWS |
+|![Blaybus-8Hz](https://github.com/Blaybus-8Hz/BE) | 미용실 추천 서비스 | Spring Boot, Redis, MySQL, Docker |
 
 ## 📫 Contact
 - Email: byunhm02@gmail.com
