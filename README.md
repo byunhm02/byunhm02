@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20%0AIt's%20heemin's%20github%20🤗&fontSize=40)
 
 ## 👋 About Me
-...  
 
-- 🔭 .
+- 🔭 문제를 끝까지 파고들어 해결하고, 함께 성장하는 것을 즐기는 백엔드 개발자 변희민 입니다. 
 - 🌱 관심 기술: Spring Boot, JPA, AWS, Docker, Redis, OAuth2
 - 🧠
 - 💬
