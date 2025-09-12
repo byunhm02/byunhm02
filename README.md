@@ -16,6 +16,8 @@
 | 2022.03 ~ | **홍익대학교 컴퓨터공학과** 재학 중 |
 | 2024.03 ~ 2024.12 | **멋쟁이사자처럼 홍익대학교 12기** 백엔드 개발자 (BE) |
 | 2025.03 ~ 현재 | **멋쟁이사자처럼 홍익대학교 13기** 백엔드 운영진 (BE 운영진) |
+| 2025.05 ~ 2025.08| *GUGUS 백엔드 인턴** 개발팀 백엔드 인턴 |
+
 
 
 ---
@@ -59,6 +61,8 @@
 |![FunDi](https://github.com/2024SINCHON-FunDI/Back-End)  | 동아리원들을 위한 회계 공유 서비스 | Django |
 |![TIPZIP](https://github.com/byunhm02/TIPZIP_BE) | 팁 공유 플랫폼 | Spring Boot, JPA, AWS |
 |![Blaybus-8Hz](https://github.com/Blaybus-8Hz/BE) | 미용실 추천 서비스 | Spring Boot, Redis, MySQL, Docker |
+| 비공개 레포 | 신한카드 사내 인수인계 프로젝트 | Spring Boot, MySQL, Docker,git action,AWS,JPA |
+| 비공개 레포 | 똑독(강아지 유치원 서비스) | Spring Boot, MySQL, Docker, git action, AWS, JPA, Redis |
 
 ## 📫 Contact
 - Email: byunhm02@gmail.com
