@@ -57,12 +57,12 @@
 ## ✨ Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-|![Feelow](https://github.com/Likelion-Feelow/Feelow-Server)  | 나만의 타이머 서비스 | Django, AWS |
-|![FunDi](https://github.com/2024SINCHON-FunDI/Back-End)  | 동아리원들을 위한 회계 공유 서비스 | Django |
-|![TIPZIP](https://github.com/byunhm02/TIPZIP_BE) | 팁 공유 플랫폼 | Spring Boot, JPA, AWS |
-|![Blaybus-8Hz](https://github.com/Blaybus-8Hz/BE) | 미용실 추천 서비스 | Spring Boot, Redis, MySQL, Docker |
-| 비공개 레포 | 신한카드 사내 인수인계 프로젝트 | Spring Boot, MySQL, Docker,git action,AWS,JPA |
-| 비공개 레포 | 똑독(강아지 유치원 서비스) | Spring Boot, MySQL, Docker, git action, AWS, JPA, Redis |
+|[Feelow](https://github.com/Likelion-Feelow/Feelow-Server)  | 나만의 타이머 서비스 | Django, AWS |
+|[FunDi](https://github.com/2024SINCHON-FunDI/Back-End)  | 동아리원들을 위한 회계 공유 서비스 | Django |
+|[TIPZIP](https://github.com/byunhm02/TIPZIP_BE) | 팁 공유 플랫폼 | Spring Boot, JPA, AWS |
+|[Blaybus-8Hz](https://github.com/Blaybus-8Hz/BE) | 미용실 추천 서비스 | Spring Boot, Redis, MySQL, Docker |
+| private repo | 신한카드 사내 인수인계 프로젝트 | Spring Boot, MySQL, Docker, git action, AWS, JPA |
+| private repo | 똑독(강아지 유치원 서비스) | Spring Boot, MySQL, Docker, git action, AWS, JPA, Redis |
 
 ## 📫 Contact
 - Email: byunhm02@gmail.com
